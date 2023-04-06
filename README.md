@@ -16,6 +16,6 @@ $ (venv) jupyter-lab <--jupyter-lab 실행
 ```
 ## ToDo
 - [ ] 회귀문제([캘리포니아 집값데이터],http://lib.stat.cmu.edu/datasets)
-- [ ] 분류문제([타이타닉 생존자 예측],https://www.kaggle.com/c/titanic))
+- [ ] 분류문제([타이타닉 생존자 예측],https://www.kaggle.com/c/titanic)
 - [ ] 시계열문제(문제 탐색중)
 
