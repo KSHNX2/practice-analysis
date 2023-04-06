@@ -3,13 +3,13 @@
 ## 설정
 * Python ver `3.10.10`
 * 'numpy', 'pandas', 'matplotlib'는 필수적으로 설치
-* 'inpynb'를 위해서 'jupyerlab'을 설치
+* 'inpynb'를 위해서 'jupyterlab'을 설치
 * ctrl+shift+p 인터프리터 선택 --> venv python
 ```shell
 (cmd)
 $ python -m venv venv 
 $ .\venv\Scripts\activate
-$ (venv) pip install numpy pandas seaborn jupyerlab
+$ (venv) pip install numpy pandas seaborn jupyterlab
 $ pip freeze > requirments.txt
 $ (venv) pip install -r requirments.txt
 $ (venv) jupyter-lab <--jupyter-lab 실행
