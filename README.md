@@ -9,7 +9,7 @@
 (cmd)
 $ python -m venv venv 
 $ .\venv\Scripts\activate
-$ (venv) pip install numpy pandas seaborn jupyterlab
+$ (venv) pip install numpy pandas seaborn jupyterlab plotly scikit-learn
 $ pip freeze > requirments.txt
 $ (venv) pip install -r requirments.txt
 $ (venv) jupyter-lab <--jupyter-lab 실행
@@ -19,3 +19,4 @@ $ (venv) jupyter-lab <--jupyter-lab 실행
 - [ ] 분류문제([타이타닉 생존자 예측],https://www.kaggle.com/c/titanic)
 - [ ] 시계열문제(문제 탐색중)
 
+python -m venv venv 
